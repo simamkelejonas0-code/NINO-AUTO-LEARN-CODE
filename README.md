@@ -62,3 +62,13 @@ Fork it. Break it. Fix it faster than 37 builds in 6h05m.
 Do NOT hardcode a key. Use mtm_key.txt.
 
 MIT - keep credit: created by SIIMAMKELE NGXONONO from KIRKWOOD
+
+## CHALLENGE FROM KIRKWOOD
+
+I built 37 APKs in 6 hours 5 minutes on a phone in Termux. No PC. No WiFi. No Gradle.
+
+Beat it. World pro builders, I challenge you.
+
+If you beat 37 in 6h05m, show proof. If not, learn from me.
+
+- SIIMAMKELE NGXONONO from KIRKWOOD
